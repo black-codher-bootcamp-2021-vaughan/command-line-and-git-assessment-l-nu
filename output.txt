@@ -1,0 +1,26 @@
+Script started on 2021-11-14 22:49:57+00:00 [TERM="dumb" TTY="/dev/pts/1" COLUMNS="120" LINES="30"]
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# mkdir folder1
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# mkdir fl older  2
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# echo > file1.txt
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# echo > file. 2.txt
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# echo > file3.txt
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# ls
+README.md  file1.txt  file2.txt  file3.txt  folder1  folder2  output.txt  package-lock.json  package.json
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# cd folder1
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu/folder1# ls
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu/folder1# cd..
+cd..: command not found
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu/folder1# cd ..
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# mv file. 1.txt folder1
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# mv file2.txt folder2
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# cd folder1
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu/folder1# ls
+file1.txt
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu/folder1# pwd
+/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu/folder1
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu/folder1# cd ..
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# rm file3.txt
+root@Whatcha-onn:/mnt/c/Users/Lais.000/black-codher-/command-line-and-git-assessment-l-nu# exit   xit
+exit
+
+Script done on 2021-11-14 22:53:59+00:00 [COMMAND_EXIT_CODE="0"]
